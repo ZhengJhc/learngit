@@ -1,2 +1,2 @@
 跟着廖雪峰吃肉喝啤酒
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
